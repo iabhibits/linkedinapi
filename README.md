@@ -1,2 +1,2 @@
-# linkedinapi
-demo run for linkedin-api
+# wf-python-training
+Python training
